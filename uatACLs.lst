@@ -1,0 +1,4 @@
+/data/gpdw user::r-x,group::r-x,other::r-x,default:other::---
+/data/raw user::r-x,group::r-x,other::r-x,default:other::---
+/data/master user::r-x,group::r-x,other::r-x,default:other::---
+/data/temp user::r-x,group::r-x,other::r-x,default:other::---
